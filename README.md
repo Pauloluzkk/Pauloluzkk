@@ -1,16 +1,15 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There,+i'm+Paulo+Vitor;Welcome+to+my+profile)
 
-<!--
-**Pauloluzkk/Pauloluzkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm currently learning about Fullstack development, marketing.
+- 🔭 I’m currently studyng Computer Science at <strong>UENP</strong> (2023-2026)
+- 🥉 3th place on Genius Agro Hackathon 2024 (SEBRAE)
+- 😁 I'm very communicative and proactive
+- 📫 How to reach me: [paulo.codognotto@discente.uenp.edu.br])
+---
 
-Here are some ideas to get you started:
+### **Connect with me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/paulo-vitor-luz-3a8411271/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+  
+</p>
