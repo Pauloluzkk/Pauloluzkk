@@ -2,6 +2,7 @@
 
 - 👨‍💻 I'm currently learning about Fullstack development, marketing.
 - 🔭 I’m currently studyng Computer Science at <strong>UENP</strong> (2023-2026)
+- 🥈 2th place on Genius Agro Hackathon 2025 (SEBRAE)
 - 🥉 3th place on Genius Agro Hackathon 2024 (SEBRAE)
 - 😁 I'm very communicative and proactive
 - 📫 How to reach me: [paulo.codognotto@discente.uenp.edu.br])
